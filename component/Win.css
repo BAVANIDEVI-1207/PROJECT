@@ -1,0 +1,20 @@
+body{
+    background-color:burlywood;
+    text-align: center;
+
+}
+#head{
+    background-color:burlywood;
+    text-align:center;
+    text-decoration: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    padding-top: 10px;
+}
+#no1{
+   
+    height: 200px;
+    text-align: center;
+    
+
+}
